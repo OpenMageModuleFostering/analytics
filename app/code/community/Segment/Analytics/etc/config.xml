@@ -2,7 +2,7 @@
 <config>
 	<modules>
 		<Segment_Analytics>
-			<version>1.0.0</version>
+			<version>1.1.0</version>
 		</Segment_Analytics>
 	</modules>
 	<frontend>
@@ -327,4 +327,23 @@
 			</segment_analytics>
 		</helpers>
 	</global>
+	
+	<default>
+	    <segment_analytics>
+	        <options>
+	            <customer_traits>
+created_at
+email
+first_name'
+last_name
+middle_name
+name
+is_active
+updated_at
+total_orders
+total_spent	            
+</customer_traits>
+	        </options>
+	    </segment_analytics>
+	</default>
 </config>
