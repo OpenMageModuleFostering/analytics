@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/analytics",
+    "type": "magento-module",
+    "license": "MIT",
+    "homepage": "",
+    "description": "Segment lets you integrate 100+ analytics and marketing tools without writing any code yourself!",
+    "authors": [
+    {
+        "name": "Segment",
+        "email": "friends@segment.io"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
